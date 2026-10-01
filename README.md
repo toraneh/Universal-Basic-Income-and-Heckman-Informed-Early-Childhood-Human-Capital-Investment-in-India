@@ -11,12 +11,6 @@ This study proposes a hypothesis grounded in existing literature: India's econom
 - **paper.md** – Markdown version of the paper
 - **paper.pdf** – PDF version of the paper
   
-## Key concepts
-
-- **Universal Basic Income (UBI):** direct income transfers to citizens
-- **Early Childhood Care and Education (ECCE):** evidence-based interventions targeting developmental outcomes
-- **Human capital framework:** drawing on Heckman's work on lifecycle skill formation and the returns to education
-
 ## Citation
 
 > Torane, H. "Universal Basic Income and Heckman-Informed Early Childhood Human Capital Investment in India: A Dual-Track Strategy for Maximizing the Demographic Dividend". *Preprint*. Zenodo, October 2026. https://doi.org/10.5281/zenodo.22800000
