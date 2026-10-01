@@ -10,8 +10,7 @@ This study proposes a hypothesis grounded in existing literature: India's econom
 
 - **paper.md** – Full analysis in Markdown format
 - **paper.pdf** – PDF version of the paper
-- **data/** – supporting data and references
-
+  
 ## Key concepts
 
 - **Universal Basic Income (UBI):** direct income transfers to citizens
