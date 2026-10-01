@@ -23,6 +23,8 @@ This study synthesizes existing literature on Universal Basic Income and early c
 
 Evidence from existing literature suggests that India could achieve substantial development gains by prioritizing prenatal care and Universal Basic Income as complementary policy instruments. Early childhood interventions, particularly prenatal care, consistently demonstrate higher returns on investment than subsequent schooling or job training programs. Strategic implementation of these preventive measures could transform India's demographic potential from a manageable challenge into a catalyst for sustained economic development and human capital accumulation.
 
+\newpage
+
 ## References
 
 Drishti IAS. 2019. "India's Demographic Dividend." *To The Point*. Published July 29, 2019. https://www.drishtiias.com/to-the-points/paper1/india-s-demographic-dividend.
