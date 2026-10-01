@@ -8,7 +8,7 @@ This study proposes a hypothesis grounded in existing literature: India's econom
 
 ## Contents
 
-- **paper.md** – Full analysis in Markdown format
+- **paper.md** – Markdown version of the paper
 - **paper.pdf** – PDF version of the paper
   
 ## Key concepts
